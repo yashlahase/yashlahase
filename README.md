@@ -1,6 +1,8 @@
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A855F7&center=true&vCenter=true&width=940&lines=Hi+there+%F0%9F%91%8B%2C+I'm+Yash+Lahase;CS+Student+%7C+AI+%26+ML+Enthusiast;Full-Stack+Developer+%7C+Problem+Solver" alt="Typing SVG" />
-</div>
+<!-- Animated Header -->
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Hi+I'm+Yash+Lahase!&fontSize=45&fontAlignY=40)
+
+<!-- Typing Animation -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F700&width=590&lines=B.Tech+CSE+Student+%7C+AI+%2B+Web+Developer;Love+Building+AI+Projects+with+Real+World+Impact;Future+Full+Stack+Innovator;Welcome+to+My+GitHub!)](https://git.io/typing-svg)
 
 <div align="center">
   
@@ -10,7 +12,11 @@
 
 ---
 
-## 👨‍💻 About Me
+# 👨‍💻 **About Me**
+- 🎓 **B.Tech CSE student** at Newton School of Technology x ADYPU, Pune  
+- 🤖 Love building projects that merge **AI with real-world applications**  
+- 🚀 My goal is to become a **full-stack innovator**  
+- 💡 Always learning, experimenting, and building useful tech  
 
 I'm a motivated **Computer Science Engineering** student focused on building real-world applications while strengthening my foundation in **Artificial Intelligence**, **Full-Stack Development**, and **Problem Solving**.
 
@@ -31,7 +37,7 @@ To become a skilled **AI Engineer / Full-Stack Developer** capable of building s
 
 ---
 
-## 🛠️ Technical Skills
+# 🛠️ **Technical Skills**
 
 <div align="center">
 
@@ -59,109 +65,93 @@ To become a skilled **AI Engineer / Full-Stack Developer** capable of building s
 
 ---
 
-## 🚀 Featured Projects
+# 🚀 **My Projects**
 
-### 🔹 [Job Tracker Web App](https://job-tracker-gamma-nine.vercel.app) 🌐
+### 💼 **Job Tracker Web App**
+Full-stack productivity app to manage job applications  
+[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-4A90E2?style=for-the-badge)](https://job-tracker-gamma-nine.vercel.app)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/yashlahase/JobTracker)
 
-A productivity web application designed to manage and track job applications efficiently.
-
-**Key Features:**
-- ✅ Add and manage job applications
-- 📊 Track application status (Applied / Interview / Offer / Rejected)
-- 📈 Organized dashboard for productivity
-- 🎨 Built using React and modern web technologies
-
-**Tech Stack:** React • JavaScript • Node.js
+**Features:** Track status, dashboard analytics, CRUD operations  
+**Stack:** React • Node.js • MongoDB • Express
 
 ---
 
-### 🔹 Tic-Tac-Toe Game
+### 🔗 **QRConnect**
+Turn your contact details into a smart QR + digital card  
+[![GitHub](https://img.shields.io/badge/GitHub-View%20Code-181717?style=for-the-badge&logo=github)](https://github.com/yashlahase/QRConnect)
 
-A React-based interactive game demonstrating component-driven architecture and state management.
-
-**Tech Stack:** React • JavaScript • CSS
-
----
-
-### 🔹 Beginner's Guide to Running Website
-
-A responsive static website focused on layout structuring and clean UI design.
-
-**Tech Stack:** HTML • CSS
+**Stack:** React Native • Mobile App
 
 ---
 
-### 🔹 Mood Tunes Generator
+### 🎮 **Tic Tac Toe Game (React)**
+Play online with a clean UI  
+[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-4A90E2?style=for-the-badge)](https://tic-tac-toe-paoz.vercel.app/)
 
-A dynamic single-page React application that generates mood-based themes and music suggestions.
-
-**Tech Stack:** React • JavaScript
-
----
-
-## 📈 Currently Improving
-
-- 🧠 Data Structures & Algorithms using Python
-- ⚡ Scalable backend development with Node.js
-- 🤖 AI-integrated application workflows
-- 🎯 Writing cleaner, production-ready code
+**Stack:** React • JavaScript • CSS
 
 ---
 
-## 🌱 Learning Philosophy
+### 🎵 **Mood-Based Music Streaming**
+AI chooses music based on mood & UI theme  
+[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-4A90E2?style=for-the-badge)](https://mood-yashlahases-projects.vercel.app/)
 
-> *I believe the best way to master technology is by consistently building real-world solutions.*
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yashlahase&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true)
-  
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yashlahase&theme=radical&hide_border=true)
-  
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yashlahase&layout=compact&theme=radical&hide_border=true&langs_count=8)
-  
-  ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=yashlahase&theme=react-dark&hide_border=true&area=true)
-
-</div>
+**Stack:** React • JavaScript • AI Integration
 
 ---
 
-## 🧠 Soft Skills
+### 🏃 **Beginner's Guide to Running**
+Simple & clean guide for new runners  
+[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-4A90E2?style=for-the-badge)](https://runbegin.netlify.app/)
 
-💼 Time Management • 🎯 Decision-Making • 🤝 Teamwork • ✅ Responsibility • 🧩 Strong Problem-Solving Mindset
-
----
-
-## 📫 Let's Connect
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yashlahase)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yashlahase)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](#)
-
-📧 Feel free to reach out for collaborations or opportunities!
-
-</div>
+**Stack:** HTML • CSS • Static Site
 
 ---
 
-<div align="center">
-  
-  ![Wave](https://raw.githubusercontent.com/mayhemantt/mayhemantt/main/wave.gif) 
-  
-  ### Show some ❤️ by starring some of the repositories!
-  
-</div>
+# 🏆 **GitHub Trophies**
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=yashlahase&theme=radical&no-frame=true&row=1&column=7" />
+</p>
 
 ---
 
-<div align="center">
-  
-  ⭐️ From [yashlahase](https://github.com/yashlahase)
-  
-</div>
+# 📊 **GitHub Stats**
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yashlahase&theme=radical&hide_border=true" height="180">
+  <img src="https://github-readme-stats.vercel.app/api?username=yashlahase&show_icons=true&theme=radical&hide_border=true&count_private=true" height="180">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashlahase&layout=compact&theme=radical&hide_border=true&langs_count=8" height="180">
+</p>
+
+---
+
+# 📈 **Contribution Activity**
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yashlahase&theme=react-dark&hide_border=true&area=true" />
+</p>
+
+---
+
+# 🌍 **Connect With Me**
+<p align="center">
+  <a href="https://www.linkedin.com/in/yash-lahase/">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="48px"/>
+  </a>
+  <a href="https://github.com/yashlahase">
+    <img src="https://skillicons.dev/icons?i=github" width="48px"/>
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="200" />
+</p>
+
+---
+
+<!-- Footer -->
+![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=140&section=footer)
