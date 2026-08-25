@@ -22,7 +22,7 @@
 - 💼 **Internship Experience at [Hairmac Global Private Limited](https://www.linkedin.com/company/hairmac-global-private-limited/):**  
   Currently pursuing a 6-month internship (In Progress), contributing to web development, e-commerce workflows, UI/UX optimization, Shopify development, and SEO optimization.
 - 🤖 Passionate about building real-world applications merging **AI/ML**, **Full-Stack Web & Mobile Development**, and **E-Commerce Systems**.
-- 💡 Always experimenting with modern frameworks, LLMs, Vision-Language models (CLIP), and scalable backend architectures.
+- 💡 Always experimenting with modern frameworks, LLMs, Computer Vision, and scalable backend architectures.
 
 ---
 
@@ -62,7 +62,7 @@ Currently pursuing a 6-month internship, contributing to web development, e-comm
 ### 🤖 **AI / Machine Learning**
 ![LLM](https://img.shields.io/badge/LLMs-8A2BE2?style=for-the-badge&logo=openai&logoColor=white)
 ![Gemini API](https://img.shields.io/badge/Gemini_API-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
-![CLIP](https://img.shields.io/badge/Vision--Language_(CLIP)-FF6F00?style=for-the-badge&logo=pytorch&logoColor=white)
+![Computer Vision](https://img.shields.io/badge/Computer_Vision-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 
 ### 🛍️ **E-Commerce & Digital Strategy**
 ![Shopify](https://img.shields.io/badge/Shopify-7AB55C?style=for-the-badge&logo=shopify&logoColor=white)
