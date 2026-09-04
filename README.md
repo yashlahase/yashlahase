@@ -133,14 +133,14 @@ An AI-infused mood-based music player that tailors tracks and UI aesthetics acco
 # 🌍 **Connect With Me**
 
 <p align="center">
-  <a href="https://yashlahaseportfolio.vercel.app/" target="_blank">
-    <img src="https://img.icons8.com/fluency/48/portfolio.png" width="48px" alt="Portfolio" title="Visit My Portfolio"/>
+  <a href="https://www.linkedin.com/in/yash-lahase/">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="48px" alt="LinkedIn"/>
   </a>
-  <a href="https://www.linkedin.com/in/yash-lahase/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="48px" alt="LinkedIn" title="LinkedIn"/>
+  <a href="https://github.com/yashlahase">
+    <img src="https://skillicons.dev/icons?i=github" width="48px" alt="GitHub"/>
   </a>
-  <a href="https://github.com/yashlahase" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github" width="48px" alt="GitHub" title="GitHub"/>
+  <a href="https://yashlahaseportfolio.vercel.app/">
+    <img src="https://api.iconify.design/solar:global-bold.svg?color=%238a2be2" width="48px" alt="Portfolio"/>
   </a>
 </p>
 
