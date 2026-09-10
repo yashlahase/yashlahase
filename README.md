@@ -29,9 +29,8 @@ Currently contributing to web development, e-commerce workflows, UI/UX optimizat
 # 🏢 **Work Experience**
 
 ### 💼 **Internship Experience at [Hairmac Global Private Limited](https://www.linkedin.com/company/hairmac-global-private-limited/)**
-*6-Month Internship • In Progress*
 
-Currently contributing to web development, e-commerce workflows, UI/UX optimization, Shopify development, and SEO optimization.
+Currently contributing to web development, e-commerce workflows, UI/UX optimization, Shopify development, backend development & API integration, and SEO optimization
 
 ---
 
