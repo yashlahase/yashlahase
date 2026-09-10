@@ -20,7 +20,7 @@
 
 - 🎓 **B.Tech CSE Student** at **Newton School of Technology x ADYPU, Pune**, specializing in **Artificial Intelligence & Machine Learning**.
 - 💼 **Internship Experience at [Hairmac Global Private Limited](https://www.linkedin.com/company/hairmac-global-private-limited/):**  
-  Currently pursuing a 6-month internship (In Progress), contributing to web development, e-commerce workflows, UI/UX optimization, Shopify development, and SEO optimization.
+Currently contributing to web development, e-commerce workflows, UI/UX optimization, Shopify development, and SEO optimization.
 - 🤖 Passionate about building real-world applications merging **AI/ML**, **Full-Stack Web & Mobile Development**, and **E-Commerce Systems**.
 - 💡 Always experimenting with modern frameworks, LLMs, Computer Vision, and scalable backend architectures.
 
@@ -31,7 +31,7 @@
 ### 💼 **Internship Experience at [Hairmac Global Private Limited](https://www.linkedin.com/company/hairmac-global-private-limited/)**
 *6-Month Internship • In Progress*
 
-Currently pursuing a 6-month internship, contributing to web development, e-commerce workflows, UI/UX optimization, Shopify development, and SEO optimization.
+Currently contributing to web development, e-commerce workflows, UI/UX optimization, Shopify development, and SEO optimization.
 
 ---
 
@@ -141,6 +141,7 @@ An AI-infused mood-based music player that tailors tracks and UI aesthetics acco
   </a>
   <a href="https://yashlahaseportfolio.vercel.app/">
     <img src="https://api.iconify.design/solar:global-bold.svg?color=%238a2be2" width="48px" alt="Portfolio"/>
+  </a>
   </a>
 </p>
 
