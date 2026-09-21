@@ -104,7 +104,7 @@ An AI-powered document analysis application using Vision-Language models to pars
 ### 🔗 **QRConnect**
 Turn contact details into dynamic smart QR codes and digital networking business cards.
 
-[![GitHub](https://img.shields.io/badge/GitHub-View_Code-181717?style=for-the-badge&logo=github)](https://github.com/yashlahase/QRConnect)
+[![GitHub](https://img.shields.io/badge/GitHub-View_Code-181717?style=for-the-badge&logo=github)](https://github.com/yashlahase/QR_Connect.git)
 
 ---
 
